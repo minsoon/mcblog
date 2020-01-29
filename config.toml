@@ -1,4 +1,4 @@
-baseURL = "https://mcsung.github.io/"
+baseURL = "https://minsoon.github.io/"
 languageCode = "kr"                                   # website language
 defaultContentLanguage = "kr"                         # [en, zh, ...] determines which i18n file to use
 title = "McFrontDeveloper"                                    # website title
