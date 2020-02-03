@@ -84,3 +84,9 @@ function rippleShow(e) {
 vuetify가 다시 설치되면 또 똑같이 node_modules을 수정해야하는 번거로움이 있어 최선의 방법은 아니라고 생각한다..
 
 버전 올리는걸로 다시한번 생각해 봐야겠다..
+
+
+### 참고 자료 ###
+- [[Bug Report] Ripple effect happens twice in mobile browsers #7605](https://github.com/vuetifyjs/vuetify/issues/7605)
+- [fix(Ripple): add ripple property to denote touch enabled](https://github.com/vuetifyjs/vuetify/commit/c8d2a675ea9c02f1c947b435f6aca0978c80e4b9)
+
